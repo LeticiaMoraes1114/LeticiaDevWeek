@@ -1,2 +1,2 @@
 # LeticiaDevWeek
-Curriculo pessoal
+Curriculo jornada dev
